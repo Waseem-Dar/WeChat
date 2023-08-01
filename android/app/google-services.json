@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "841699504731",
+    "project_id": "chating-5479e",
+    "storage_bucket": "chating-5479e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841699504731:android:d208fd829f1abe2197057e",
+        "android_client_info": {
+          "package_name": "com.example.wechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841699504731-do9mn4gfqqilnlut8suth0brb3606d08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyhWD5Q3mLPe5ge6d-mIl1QiMDm3hhZYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841699504731-do9mn4gfqqilnlut8suth0brb3606d08.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
